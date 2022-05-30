@@ -22,7 +22,7 @@ Concepts (minimum expectations, including more will improve overall grade):
 - Inheritance Lines are mapped with FINAL for variables and methods
 - Inheritance ensures variables are only declared once
 - Inheritance ensures methods are only referenced unless specific lines must be overwritten
-- Inheritance ensures all PUBLIC Methods (including draw() 
+- Inheritance ensures all PUBLIC Methods ( including draw() only reference encapsulated procedures )
 
 Mandatory:
 - Version Control: New GitHub Repository is created immediately and updated daily to demonstrate consistent work (irregular updates will decrease overall grade)
